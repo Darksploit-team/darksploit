@@ -1,2 +1,2 @@
-# darksploit.github.io
+# darksploit
 This is darksploit website and it's under construction, but it will be hosted soon.
