@@ -88,6 +88,7 @@ body {
     overflow: hidden;
 }
 
+/** This is a feature on the Nav-link that will be worked on --
 .nav-links::after, .nav-links::before {
     pointer-events: none;
 }
@@ -133,6 +134,7 @@ body {
     height: 100%;
     background: var(--nav-bg);
 }
+**/
 
 #toggle {
     width: 60px;
